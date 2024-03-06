@@ -1,0 +1,20 @@
+# 春秋Wiki
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## 正式内容1
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+## 正式内容2
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+## 正式内容3
+填充内容填充内容填充内容填充内容填充内容填充内容填充内容
