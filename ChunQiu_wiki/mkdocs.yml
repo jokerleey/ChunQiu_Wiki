@@ -34,13 +34,6 @@ theme:
     - toc.follow # 目录跟踪-页面右侧的小目录
     # - toc.integrate # 目录跟踪集成到左侧大目录中
   palette:
-    - media: "(prefers-color-scheme: light)" # 浅色
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: 明亮模式
     - media: "(prefers-color-scheme: dark)" # 深色
       scheme: slate
       primary: black
@@ -48,6 +41,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: 护眼模式
+    - media: "(prefers-color-scheme: light)" # 浅色
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: 明亮模式
 nav:
   - 项目简介:
       - "index.md"
