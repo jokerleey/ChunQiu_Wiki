@@ -40,14 +40,14 @@ theme:
       accent: indigo
       toggle:
         icon: material/toggle-switch-off
-        name: 护眼模式
+        name: 明亮模式
     - media: "(prefers-color-scheme: light)" # 浅色
       scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: 明亮模式
+        name: 护眼模式
 nav:
   - 项目简介:
       - "index.md"
